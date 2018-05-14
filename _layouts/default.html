@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="{{page.description}}">
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <title>{{ page.title }}</title>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-68509828-2"></script>
+<script>
+   if (document.cookie.indexOf('disable-google-analytics=true') > -1) {
+     window['ga-disable-UA-68509828-2'] = true;
+   }
+   function gaOptout() {
+     document.cookie = 'disable-google-analytics=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+     window['ga-disable-UA-68509828-2'] = true;
+   }
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-68509828-2', { 'anonymize_ip': true });
+</script>
+  </head>
+
+<body>
+
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">Microservices Book</h1>
+          <h2 id="project_tagline">Flexible Software Architectures</h2>
+
+      <section id="links">
+      <a href="index.html">Home</a>
+      <a href="primer.html">FREE Primer</a>
+      <a href="examples.html">Examples</a>
+      <a href="content.html">Content</a>      
+      <a href="buy.html">Buy</a>
+      <a href="links.html">Links</a>
+      </section>
+      
+        </header>
+    </div>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+      <header class="inner">
+          <h1 id="project_title">Continuous-Delivery-Buch</h1>
+          <h2 id="project_tagline">Der pragmatische Einstieg</h2>
+      <section id="links">
+        <a href="index.html">Home</a>
+        <a href="klappentext.html">Klappentext</a>
+        <a href="ZweiteAuflage.html">2. Auflage</a>
+        <a href="errata.html">Errata</a>
+        <a href="kaufen.html">Kaufen</a>
+        <a href="links.html">Links</a>
+      </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+    {{ content }}	
+      </section>
+    </div>
+      
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Copyright Eberhard Wolff</p>
+        <p>Published with <a href="https://pages.github.com">GitHub
+      Pages</a>
+      <a href="datenschutzerklaerung.html">Datenschutzerklärung</a>
+      <a href="impressum.html">Impressum</a>
+      </p>
+      </footer>
+    </div>
+  </body>
+</html>
