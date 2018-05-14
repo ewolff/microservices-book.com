@@ -1,12 +1,12 @@
 ---
-title: continuous-delivery-buch.de Impressum
+title: microservices-book.com Impressum
 ---
 
 Notice: Since this server resides in Germany, and since the author of
 the website is German citizen, the German law applies for the entire
 website. Therefore, the contact and imprint are presented in German.
 
-Angaben gemäß §5 TMG: continuous-delivery-buch.de ist eine private Publikation von
+Angaben gemäß §5 TMG: microservices-book.com ist eine private Publikation von
 Eberhard Wolff, Leobschützer Str. 22, 13125 Berlin; EMail:
 eberhard.wolff At @ gmail Punkt com.
 
@@ -17,7 +17,7 @@ ausdrücklich widersprochen. Ich behalte mir ausdrücklich rechtliche
 Schritte im Falle der unverlangten Zusendung von Werbeinformationen
 etwa durch Spam-Emails oder Postsendungen vor.
 
-Sämtliche Inhalte von continuous-delivery-buch.de unterliegen dem deutschen
+Sämtliche Inhalte von microservices-book.com unterliegen dem deutschen
 Urheberrecht. Vervielfältigung, Veränderung, Verbreitung und jegliche
 Verwertung außerhalb des geltenden Urheberrechts bedürfen meiner
 schriftlichen Zustimmung. Die Inhalte unterliegen der

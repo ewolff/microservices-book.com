@@ -59,7 +59,7 @@ pages](http://www.informit.com/content/images/9780134602417/samplepages/97801346
   
 
 
-## Part III: Implementing Microservices</h2>
+## Part III: Implementing Microservices
 
 
 * 7 Architecture of Microservice-based Systems

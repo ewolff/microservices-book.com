@@ -6,6 +6,9 @@ description: Microservices book by Eberhard Wolff - a complete introduction to t
 
 # Microservices
 
+<img src="images/book.jpg" width="50%" /> 
+
+
 A Microservice-based architecture divides software systems into many
 small services which can be deployed independently. Every team works
 on its own Microservices and is thus decoupled from other teams. This

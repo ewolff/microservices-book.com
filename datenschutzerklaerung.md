@@ -1,12 +1,12 @@
 ---
-title: continuous-delivery-buch.de Datenschutzerklärung
+title: microservices-book.com Datenschutzerklärung
 ---
 
 Notice: Since this server resides in Germany, and since the author of
 the website is German citizen, the German law applies for the entire
 website. Therefore, the data protection declaration is presented in German.
 
-continuous-delivery-buch.de nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Wir
+microservices-book.com nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Wir
 selbst erfassen oder speichern keinerlei persönliche Daten.
 
 Allerdings werden einerseits diese Seiten auf Servern Dritter
