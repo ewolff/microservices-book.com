@@ -18,9 +18,7 @@ is a great ressource to get started with Microservices.
 You can get the eBook for free from **Leanpub**. You get a PDF, ePub
 and Mobi (Kindle). There is no DRM (digital rights management).
       
-<center>
-<https://leanpub.com/microservices-primer>
-</center>
+[Leanpub](https://leanpub.com/microservices-primer)
 
 At **Amazon** the Kindle eBook is not free but quite cheap. Here are
 the links to the Amazon web sites:
