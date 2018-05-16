@@ -23,7 +23,6 @@ systems. The book is translated from German, see
 translation](http://acornpub.co.kr/book/microservices).
 
 Eberhard Wolff's book offers a comprehensive introduction to Microservices. It covers:
-
       
 * Advantages and disadvantages of the Microservice approach
 * Microservices vs. SOA (Service-oriented Architecture)
@@ -43,6 +42,10 @@ also get suggestions how to deepen what you have learned through your
 own experiments.
 
 The book also contains essays by Microservices experts.
+
+## Sample
+
+[Download the sample](MicroservicesBookSample.pdf)
       
 ## What Readers Say
 

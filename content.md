@@ -6,8 +6,7 @@ description: Content of the microservices book - including the table of content
 
 ## Sample
 
-[Download the sample
-pages](http://www.informit.com/content/images/9780134602417/samplepages/9780134602417.pdf)
+[Download the sample](MicroservicesBookSample.pdf)
 (includes Chapter 3 and the index.)
       
 ## Part I: Motivation and Basics
