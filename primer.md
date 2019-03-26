@@ -74,3 +74,8 @@ license. The source is available at
     
 In the last chapter the primer gives hints how to start with
 Microservices.
+
+## German Version
+
+The book is a translation into English. The German version is
+[Microservices Überblick](https://microservices-buch.de/ueberblick.html).
