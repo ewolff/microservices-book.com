@@ -44,6 +44,11 @@ There is also a printed version:
 * [Amazon FR](http://amzn.to/2HOtnRc)
 * [Amazon IT](http://amzn.to/2HOtE6G)
       
+## Source
+
+The Primer is licensed under a Creative Commons Attribution 4.0
+license. The source is available at
+[GitHub](https://github.com/ewolff/microservices-primer).
 
 ## Content
 
